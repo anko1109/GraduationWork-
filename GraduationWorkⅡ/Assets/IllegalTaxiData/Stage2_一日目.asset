@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aba0aa40da0847b0b8f878b87dab85ac, type: 3}
+  m_Name: "Stage2_\u4E00\u65E5\u76EE"
+  m_EditorClassIdentifier: Assembly-CSharp::ShoryoumaTaxi.TaxiStageData
+  no: 2
+  stageName: "\u4E00\u65E5\u76EE"
+  goal: 60
+  time: 150
+  tutorial: 0
+  bossFight: 0
+  look: 2
+  outSpeed: 16
+  homeSpeed: 12
+  bossSpeed: 12.6
+  bossGap: 68
+  bossLunge: 0
+  bossAttack: 5.5
+  bossVolley: 1
+  bossHp: 0
+  waveOut: 6.5
+  waveBack: 4
+  firstWave: 3
+  souls:
+  - y: 88
+    rare: 2
+  - y: 132
+    rare: 0
+  - y: 167
+    rare: 0
+  - y: 206
+    rare: 0
+  - y: 248
+    rare: 1
+  - y: 289
+    rare: 0
+  - y: 335
+    rare: 1
+  - y: 375
+    rare: 0
+  - y: 413
+    rare: 0
+  - y: 456
+    rare: 2
+  - y: 485
+    rare: 0
+  - y: 529
+    rare: 0
+  - y: 570
+    rare: 1
+  cops:
+  - y: 118
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 142
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 159
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 179
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 200
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 219
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 238
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 260
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 280
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 303
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 320
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 339
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 363
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 378
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 397
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 420
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 443
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 460
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 479
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 498
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 522
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 539
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 557
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 579
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 599
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 622
+    type: 0
+    fixedPos: 0
+    x: 0
+    z: 0
+  items:
+  - y: 150
+    kind: 0
+  - y: 230
+    kind: 2
+  - y: 300
+    kind: 1
+  - y: 380
+    kind: 0
+  - y: 470
+    kind: 2
+  - y: 560
+    kind: 1
+  - y: 610
+    kind: 0

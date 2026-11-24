@@ -3287,17 +3287,46 @@ MonoBehaviour:
   nextStageButton: {fileID: 1396224333}
   retryButton: {fileID: 611477002}
   resultToTitleButton: {fileID: 72761563}
-  cucumberPrefab: {fileID: 0}
+  timerText: {fileID: 0}
+  titleCompanyText: {fileID: 0}
+  stageStarTexts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  resultStarsText: {fileID: 0}
+  bossHpTrailFill: {fileID: 0}
+  flashImage: {fileID: 0}
+  namePanel: {fileID: 0}
+  nameInput: {fileID: 0}
+  nameOkButton: {fileID: 0}
+  nameCancelButton: {fileID: 0}
+  titleRenameButton: {fileID: 0}
+  pauseRenameButton: {fileID: 0}
+  pauseRetryButton: {fileID: 0}
+  charmRetryButton: {fileID: 0}
+  sceneRole: 0
+  gameSceneName: IllegalTaxi_Game
+  titleSceneName: IllegalTaxi_Title
+  tuning: {fileID: 11400000, guid: 204f7715a856be3448a8a0c08e5e6ebf, type: 2}
+  stageAssets:
+  - {fileID: 11400000, guid: a6af2558cf3a3884c9c1a34092c5c3fa, type: 2}
+  - {fileID: 11400000, guid: c0b419c03608bb34aa4d27f798fcac96, type: 2}
+  - {fileID: 11400000, guid: 35edadf06ae6e3b468fe77eba05583a4, type: 2}
+  - {fileID: 11400000, guid: 9fcc430062f659a4996dd4518d96d74b, type: 2}
+  models: {fileID: 11400000, guid: 7f7e768e63e001a408e73ee1ad0c67fe, type: 2}
+  cucumberPrefab: {fileID: 3960954860395397059, guid: 827260c6004ccf8458bf8f636d40732b, type: 3}
   nasuPrefab: {fileID: 0}
   soulColorModels:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 919132149155446097, guid: 18e0b01870734d449b2045231ec960e3, type: 3}
+  - {fileID: 919132149155446097, guid: 1a5800adf02f09c47862e7e5159ce5bc, type: 3}
+  - {fileID: 919132149155446097, guid: 77311f6028d50754da2ed05875e88c38, type: 3}
   soulModelScale: 1.15
-  conductorPrefab: {fileID: 0}
+  conductorPrefab: {fileID: 919132149155446097, guid: c53f8b5121ecf964bb712c558ed030c9, type: 3}
   conductorScale: 0.7
   conductorOffset: {x: 0, y: 0.45, z: 0}
   conductorEuler: {x: 0, y: 0, z: 0}
+  nameDraft: 
 --- !u!1 &1292233965
 GameObject:
   m_ObjectHideFlags: 0

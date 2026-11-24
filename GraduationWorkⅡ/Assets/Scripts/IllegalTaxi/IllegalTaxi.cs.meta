@@ -1,2 +1,59 @@
 fileFormatVersion: 2
 guid: f0f1bc3c9e8a404ab732088b8ef5fd61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - titlePanel: {instanceID: 0}
+  - gamePanel: {instanceID: 0}
+  - pausePanel: {instanceID: 0}
+  - resultPanel: {instanceID: 0}
+  - tutorialPanel: {instanceID: 0}
+  - bannerPanel: {instanceID: 0}
+  - bossPanel: {instanceID: 0}
+  - stageNameText: {instanceID: 0}
+  - fareText: {instanceID: 0}
+  - waterText: {instanceID: 0}
+  - objectiveText: {instanceID: 0}
+  - riderText: {instanceID: 0}
+  - distanceText: {instanceID: 0}
+  - bossHpText: {instanceID: 0}
+  - fareFill: {instanceID: 0}
+  - waterFill: {instanceID: 0}
+  - bossHpFill: {instanceID: 0}
+  - tutorialHeaderText: {instanceID: 0}
+  - tutorialBodyText: {instanceID: 0}
+  - bannerMainText: {instanceID: 0}
+  - bannerSubText: {instanceID: 0}
+  - resultStageText: {instanceID: 0}
+  - resultTitleText: {instanceID: 0}
+  - resultBodyText: {instanceID: 0}
+  - resultStatsText: {instanceID: 0}
+  - resumeButton: {instanceID: 0}
+  - pauseToTitleButton: {instanceID: 0}
+  - nextStageButton: {instanceID: 0}
+  - retryButton: {instanceID: 0}
+  - resultToTitleButton: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - titleCompanyText: {instanceID: 0}
+  - resultStarsText: {instanceID: 0}
+  - bossHpTrailFill: {instanceID: 0}
+  - flashImage: {instanceID: 0}
+  - namePanel: {instanceID: 0}
+  - nameInput: {instanceID: 0}
+  - nameOkButton: {instanceID: 0}
+  - nameCancelButton: {instanceID: 0}
+  - titleRenameButton: {instanceID: 0}
+  - pauseRenameButton: {instanceID: 0}
+  - pauseRetryButton: {instanceID: 0}
+  - charmRetryButton: {instanceID: 0}
+  - tuning: {instanceID: 0}
+  - models: {instanceID: 0}
+  - cucumberPrefab: {instanceID: 0}
+  - nasuPrefab: {instanceID: 0}
+  - conductorPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

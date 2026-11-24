@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aba0aa40da0847b0b8f878b87dab85ac, type: 3}
+  m_Name: "Stage1_\u7814\u4FEE"
+  m_EditorClassIdentifier: Assembly-CSharp::ShoryoumaTaxi.TaxiStageData
+  no: 1
+  stageName: "\u7814\u4FEE"
+  goal: 20
+  time: 200
+  tutorial: 1
+  bossFight: 0
+  look: 1
+  outSpeed: 13
+  homeSpeed: 12
+  bossSpeed: 9.5
+  bossGap: 55
+  bossLunge: 0
+  bossAttack: 0
+  bossVolley: 1
+  bossHp: 0
+  waveOut: 0
+  waveBack: 7
+  firstWave: 6
+  souls:
+  - y: 80
+    rare: 0
+  - y: 105
+    rare: 0
+  - y: 135
+    rare: 0
+  - y: 170
+    rare: 1
+  - y: 205
+    rare: 0
+  - y: 250
+    rare: 0
+  - y: 290
+    rare: 0
+  cops:
+  - y: 420
+    type: 0
+    fixedPos: 1
+    x: -2.2
+    z: 0
+  - y: 470
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  - y: 540
+    type: 0
+    fixedPos: 1
+    x: 2
+    z: 0
+  - y: 600
+    type: 0
+    fixedPos: 1
+    x: 1.5
+    z: 0
+  - y: 630
+    type: 1
+    fixedPos: 0
+    x: 0
+    z: 0
+  items:
+  - y: 330
+    kind: 0
+  - y: 360
+    kind: 1
+  - y: 390
+    kind: 2

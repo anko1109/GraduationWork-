@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e4a7d8fb3274a9badf52d9d68b32232, type: 3}
+  m_Name: TaxiModels
+  m_EditorClassIdentifier: Assembly-CSharp::ShoryoumaTaxi.TaxiModelSet
+  junsa: {fileID: 0}
+  patochin: {fileID: 0}
+  boss: {fileID: 919132149155446097, guid: 02d2c7f6ca2d133459358256f65ce99e, type: 3}
+  glove: {fileID: 919132149155446097, guid: 485d5bfd4e0c3074faa07f651a87841e, type: 3}
+  pellet: {fileID: 0}
+  cuffs: {fileID: 0}
+  coin: {fileID: 0}
+  itemWater: {fileID: 919132149155446097, guid: e927154d57398a84a9ffd2664f3afd7e, type: 3}
+  itemWind: {fileID: 919132149155446097, guid: f1e16ec4e10976145900cf0d4fe097c1, type: 3}
+  itemCharm: {fileID: 919132149155446097, guid: 5ee446132820dbb4c902c535c4911303, type: 3}
+  scale: 1
